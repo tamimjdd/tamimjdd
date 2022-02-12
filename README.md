@@ -1,5 +1,7 @@
 ### Hi there, I'm Tamim Wasif - aka Tamim 👋
 
+![](https://komarev.com/ghpvc/?username=tamimjdd)
+
 ### Coding Profiles
 [![Badge](https://cp-logo.vercel.app/codechef/tamimjd?logo=true)](https://www.codechef.com/users/tamimjd)
 [![Codeforces Badge](https://cp-logo.vercel.app/codeforces/tamimwasif?style=flat&labelColor=fad15b&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tamimwasif)
