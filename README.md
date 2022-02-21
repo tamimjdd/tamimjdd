@@ -58,7 +58,7 @@
 ---
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://htmlpreview.github.io/?https://raw.githubusercontent.com/tamimjdd/html.gitub.io/master/index2.html)
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://htmlpreview.github.io/?https://tamimwasif.com)
 [<img align="left" alt="Tamim_wasif | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://www.youtube.com/channel/UCEX3BfAnJMi0mmpQI60UIDA?view_as=subscriber)
 [<img align="left" alt="Tamim_wasif | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:deviltamim88@gmail.com)
 [<img align="left" alt="Tamim_wasif | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/logan.hakathon)
