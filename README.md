@@ -11,7 +11,7 @@
 ## I'm a student, learner, coder!
 - 🔭 I’m currently studing at North Western University Bangladesh!
 - 🌱 I’m currently learning
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code
 ---
