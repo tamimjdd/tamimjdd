@@ -9,7 +9,7 @@
 [![Badge](https://img.shields.io/badge/-uri-2EC866?style=for-the-badge&logo=URI&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/173815)
 
 ## I'm a student, learner, coder!
-- 🔭 I’m currently working at Teton Privet Company!
+- 🔭 I’m currently intern at Teton Privet Company!
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
