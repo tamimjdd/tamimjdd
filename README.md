@@ -9,10 +9,10 @@
 [![Badge](https://img.shields.io/badge/-uri-2EC866?style=for-the-badge&logo=URI&logoColor=white)](https://www.beecrowd.com.br/judge/en/profile/173815)
 
 ## I'm a student, learner, coder!
-- 🔭 I’m currently studing at North Western University Bangladesh!
+- 🔭 I’m currently working at Teton Privet Company!
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate with content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Code
 ---
 ### Languages
